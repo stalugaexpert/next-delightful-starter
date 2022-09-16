@@ -1,0 +1,10 @@
+example:
+ /modules
+        /auth
+            /api
+                AuthAPI.js
+                AuthAPI.test.js
+            /components
+                AuthForm.tsx
+                AuthForm.test.ts
+            auth.js
