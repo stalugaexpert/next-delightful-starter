@@ -1,3 +1,5 @@
+import '@/common/styles/globals.css'
+
 import { withTRPC } from '@trpc/next'
 import { AppType } from 'next/dist/shared/lib/utils'
 
